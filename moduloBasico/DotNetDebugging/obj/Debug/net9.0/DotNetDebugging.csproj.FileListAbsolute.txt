@@ -1,0 +1,14 @@
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.exe
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.deps.json
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.runtimeconfig.json
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.dll
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.pdb
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.AssemblyInfo.cs
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.dll
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\obj\Debug\net9.0\refint\DotNetDebugging.dll
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.pdb
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.genruntimeconfig.cache
+C:\Temp\ws-Microsoft-NET\DotNetDebugging\obj\Debug\net9.0\ref\DotNetDebugging.dll
